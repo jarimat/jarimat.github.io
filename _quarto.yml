@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+   - GeneralResume.pdf
   
 website:
   title: "jarimat.github.io"

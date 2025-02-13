@@ -2,6 +2,7 @@
 title: "Resume"
 format: html
 ---
+
 Here's my resume!
 
 <embed src="GeneralResume.pdf" type="application/pdf" width="100%" height="600px">
