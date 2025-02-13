@@ -9,12 +9,22 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: project.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+  page-footer: 
+    background: light # or 'dark'
+    left: Copyright 2025, Jake Matullo
+    right: This website was built with blood, sweat, and tears.
 
 format:
   html:
-    theme: cosmo
+    theme: styles.scss
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
+  
 

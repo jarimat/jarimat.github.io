@@ -1,0 +1,10 @@
+---
+title: "Project"
+format: html
+---
+
+I am currently taking ESS 330. I am struggling with it right now, but hopefully I can do well enough and learn some valuable information that will benefit me in my career.
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Take a look!

@@ -1,11 +1,15 @@
 ---
-title: "jarimat.github.io"
+title: "Jake Matullo"
+image: C:/Users/jarim/git/IMG_5048.png
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jake-matullo
+    - text: GitHub
+      href: https://github.com/jarimat/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hey! My name's Jake, and I'm a Junior in Ecosystem Science and Sustainability! I'm in the Honors Track, and I'm also a re-founding father for the Epsilon Kappa chapter of Beta Theta Pi. I am fascinated with environmental history, ecology, and conservation, and want to pursue a federal- or state-level job in a position pertaining to those fields in Colorado once I graduate.

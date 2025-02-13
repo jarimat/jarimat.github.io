@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here’s my resume!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "jarimat.github.io",
+    "title": "Jake Matullo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hey! My name’s Jake, and I’m a Junior in Ecosystem Science and Sustainability! I’m in the Honors Track, and I’m also a re-founding father for the Epsilon Kappa chapter of Beta Theta Pi. I am fascinated with environmental history, ecology, and conservation, and want to pursue a federal- or state-level job in a position pertaining to those fields in Colorado once I graduate."
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "I am currently taking ESS 330. I am struggling with it right now, but hopefully I can do well enough and learn some valuable information that will benefit me in my career.\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nTake a look!"
   }
 ]
