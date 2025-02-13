@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+-   I am resilient, diligent in my work, and seek to serve others.
 
-```{r}
-1 + 1
-```
+-   I am fascinated in the ways by which the environment operates, how it changes and evolves over time, how its components interact with each other, and how humanity has modified it over millennia.
