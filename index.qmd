@@ -1,6 +1,6 @@
 ---
 title: "Jake Matullo"
-image: C:/Users/jarim/git/IMG_5048.png
+image: imgs/matullo_headshot.png
 about:
   template: trestles
   image-shape: round
